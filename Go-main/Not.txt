@@ -1,0 +1,41 @@
+mkdir gokursu //Klasor olusturma
+code . //vs code klasoru acma
+go run main.go //Çalıştırma 
+Buyuk kucuk harf duyarlı
+go run main.go ile çalıştırma
+go mod init golesson //Modul olusturma terminal kisminda ekleme
+Package
+Function
+Fmt format kelımesınden gelıyor
+Degıskenler verıyı tutar
+DRY Kendını tekrar etme
+:= hem tanimlama hem atama yapma
+Printf(veritipi %T,kdv2) //printf ile %T veri tipi sorgulama
+
+fmt.Scanln(&sayi) //Okuma islemi 
+
+ul : list item
+go run main.go ile çalistirma
+Slice Append ile yeni eleman ekleniyor.
+Fonksiyonlarda _ isaretinin anlami bos indis degeri 
+
+stack sayı=10 101 adsres   sayilar 102
+heap   102 {1,2,3}
+
+Hata Yakalama:Uygulamada olusan hatalari uygulayip aksiyon alma.
+Kullanicidan alinan parametrenin algoritmaya uygun olmamasi.
+Kontrol disi hata olabilir.
+Programcinin hatayi kontrol edemedigi fakat hataya gore aksiyon alan yapilardir.
+
+Distributed : Dagitik Sistemler
+
+RestFul Format:Istek Yanit
+SOAP WEB SERVICE
+Response
+GET Veriyi okuma
+Post-Put-Patch-Delete Veri uzerinde degisiklik yapma.
+Client Server
+
+
+Get  :Okuma
+Post :Silme Guncelleme Ekleme
