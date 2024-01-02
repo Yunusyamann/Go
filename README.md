@@ -18,8 +18,7 @@
         <li>Modül 2: Temel Go Programlama</li>
         
         
-      </ul>
-    </section>
+  
 
     
   </main>
